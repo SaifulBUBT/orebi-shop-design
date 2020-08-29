@@ -1,0 +1,113 @@
+@media only screen and (min-width:768px) and (max-width:991px){
+  .promotion_area {
+    margin-top: 50px;
+  }
+  .section_header p {
+    padding-right: 0;
+  }
+
+}
+
+
+@media only screen and (min-width:480px)and (max-width:767px){
+  .promotion_area_left {
+    padding: 150px 0;
+    margin-bottom: 30px;
+  }
+  .header_bottom_area{
+    position: relative;
+  }
+  .user_and_mini_cart {
+    position: absolute;
+    right: 17px;
+    top: -99px;
+  }
+  .warenty_years, .return_policy {
+    text-align: center;
+  }
+  .shipping_cost {
+    text-align: center;
+    margin: 10px 0;
+  }
+  .promotion_area {
+    margin-top: 50px;
+  }
+  .action_content {
+    width: 90%;
+    margin: auto;
+  }
+  .section_header p {
+    padding-right: 0;
+  }
+  .blog_item{
+    margin-bottom: 30px;
+  }
+  .social_icons {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .copyright_section p {
+    text-align: center;
+  }
+}
+
+@media only screen and  (max-width:479px){
+  .promotion_area_left {
+    padding: 150px 0;
+    margin-bottom: 30px;
+  }
+  .promotion_right_content p {
+    margin: 16px 0;
+  }
+  .promotion_left_content p {
+    margin: 24px 0;
+  }
+  .promotion_left_content h2 {
+    font-size: 28px;
+  }
+
+  .header_bottom_area{
+    position: relative;
+  }
+  .user_and_mini_cart {
+    position: absolute;
+    right: 17px;
+    top: -99px;
+  }
+  .warenty_years, .return_policy {
+    text-align: center;
+  }
+  .shipping_cost {
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .promotion_area {
+    margin-top: 50px;
+  }
+
+  .section_header h2 {
+    margin-top: 50px;
+  }
+  .product_single_content {
+    padding: 170px 0;
+  }
+  .action_content {
+    width: 90%;
+    margin: auto;
+    padding-right: 0;
+  }
+  .section_header p {
+    padding-right: 0;
+  }
+  .blog_item{
+    margin-bottom: 30px;
+  }
+  .social_icons {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .copyright_section p {
+    text-align: center;
+  }
+}
